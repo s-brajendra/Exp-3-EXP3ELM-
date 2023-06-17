@@ -7,13 +7,13 @@ In stochastic multi armed bandit problems the rewards for playing each arm are g
 
 ### Results for EXP3 for different K and Delta
 
-
+#####K=2, DELTA = 0.4, Iterations 1e4, Bernoulli
 ![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/b619568f-8177-40f8-a1d7-ce6ac7d87337)
-K=2, DELTA = 0.4, Iterations 1e4, Bernoulli
 
 
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/7119f613-9999-4896-a699-e38d2e1035d7)
 K = 10, DELTA = 0.1, Iterations = 1e4
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/7119f613-9999-4896-a699-e38d2e1035d7)
+
 Bernoulli
 
 ![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/4af418ce-e955-4476-bcc6-c2a4a5363a97)
