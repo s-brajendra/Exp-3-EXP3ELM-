@@ -7,30 +7,28 @@ In stochastic multi armed bandit problems the rewards for playing each arm are g
 
 ### Results for EXP3 for different K and Delta
 
+
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/b619568f-8177-40f8-a1d7-ce6ac7d87337)
 K=2, DELTA = 0.4, Iterations 1e4, Bernoulli
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/600c2f4f-d399-4d5f-af90-583750e28c2e)
 
 
-
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/7119f613-9999-4896-a699-e38d2e1035d7)
 K = 10, DELTA = 0.1, Iterations = 1e4
 Bernoulli
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/0c757135-f323-4e2b-9818-a973419e875f)
 
-
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/4af418ce-e955-4476-bcc6-c2a4a5363a97)
 K=2, DELTA = 0.1, Iterations 1e5, Bernoulli
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/8700b5be-d505-48f2-a6ae-b62f691414a4)
 
-
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/83bd0ec1-48e9-46e1-be01-b14ad45367e3)
 K = 10, DELTA = 0.1, Iterations = 1e5
 Bernoulli
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/9c95dc59-08a4-4fcd-b4b9-6a1599776753)
 
 ### Results for EXP3ELM for different K and Delta
 
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/22453a7e-5daf-42da-b641-096ca4fd95e1)
 K=2,DELTA = 0.01, Iterations 1e5 , Bernoulli
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/de86a691-2df5-4e14-b98d-ca660a9e6ac8)
 
 
+![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/c60a2fff-cc64-4474-81a7-82d34c356161)
 K = 3 , DELTA = 0.1 , Iterations = 1e4
 Gaussian
-![image](https://github.com/s-brajendra/Exp-3-EXP3ELM-/assets/80635193/79a09013-c7e8-4ddd-9edc-9cbac91229f5)
